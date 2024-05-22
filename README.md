@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Frontend de ChangeBook, aplicacion para intercambio de libros</p>
+<p>ChangeBook, aplicacion para intercambio de libros</p>
 </div>
                                                                                       
 </td>
