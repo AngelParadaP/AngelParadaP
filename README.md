@@ -10,6 +10,7 @@
 - ⭐ Estudiante de informatica en UDG⭐ 
 - 📲 Web developer
 - 📗 Conocimiento en Next y Typescript
+- <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3485484" estilo='border:none;'></iframe>
 <br>
 
 ## Proyectos que me gustaron 
