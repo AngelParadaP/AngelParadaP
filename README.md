@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AngelParada-blue?style=flat&logo=linkedin)](https://linkedin.com/in/angelparada)
 [![Twitter](https://img.shields.io/twitter/follow/AngelParadaP?style=social)](https://twitter.com/AngelPP_790)
 [![Instagram](https://img.shields.io/badge/Instagram-angelparada-e4405f?style=flat&logo=instagram&logoColor=white)](https://instagram.com/angel_pparada)
-[![Email](https://img.shields.io/badge/Email-angel@example.com-red?style=flat&logo=gmail)](mailto:paradapangel@gmail.com.com)
+[![Email](https://img.shields.io/badge/Email-paradapangel@gmail.com-red?style=flat&logo=gmail)](mailto:paradapangel@gmail.com.com)
 
 
 ## Sobre mi
