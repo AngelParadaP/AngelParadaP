@@ -11,6 +11,8 @@
 - 📲 Web developer
 - 📗 Conocimiento en Next y Typescript
 - <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3485484" estilo='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/angelpp.png" alt="Your Image Badge" />
+
 <br>
 
 ## Proyectos que me gustaron 
