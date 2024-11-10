@@ -52,6 +52,19 @@
 </div>
                                                                                       
 </td>
+
+<td width="50%">
+<h3 align="center">Prototipo Comercio en linea</h3>
+<div align="center">
+<a href="https://github.com/AngelParadaP/PaginaComercio" target="_blank"><img src="https://imgur.com/a/9PBKkHn" width="400" alt="PaginaComercio"></a>
+<p>
+<a href="https://github.com/AngelParadaP/PaginaComercio" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>ChangeBook, aplicacion para intercambio de libros</p>
+</div>
+        
                                                                                      
 </td>       
 </table>                                                                                 
